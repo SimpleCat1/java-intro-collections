@@ -1,4 +1,4 @@
-package simbirsoft.com;
+package com.simbirsoft.tests;
 
 import java.util.ArrayList;
 import java.util.Collections;
